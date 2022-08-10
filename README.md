@@ -3,7 +3,7 @@
 <p align="center">Layout da página de login estilo dark.</p>
 
 <h1 align="center">
-  <img alt="Página de login" title="Pagina de login" src="paginalogin.png" height="425" />
+  <img alt="Página de login" title="Pagina de login" src="paginalogin.png"/>
 </h1>
 
 #### 🛠 Tecnológias 
